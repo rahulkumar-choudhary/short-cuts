@@ -1,0 +1,15 @@
+[ ctrl + w ] : delete word before the cursor (cut to clipboard)
+[ ctrl + y ] : paste
+[ ctrl + k ] : cut the whole end of the line
+[ ctrl + u ] : go to start of the line
+[ alt + b ] : skip over a word backwards
+[ alt + f ] : skip over a word forwards
+
+In the gnome terminal emulator, 
+Ctrl+Left/right will jump over words left or right. 
+Alt+Backspace will delete the word on the left.
+Ctrl+Del will delete the word to the right from the current position.
+
+-------------------------------------------
+
+Refer: https://askubuntu.com/questions/1268570/how-do-i-delete-or-skip-over-a-word-or-a-line-of-text-in-ubuntu-terminal
