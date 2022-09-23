@@ -5,6 +5,12 @@
 [ alt + b ] : skip over a word backwards
 [ alt + f ] : skip over a word forwards
 
+[ ctrl + back ] : deleate a word before the cursor
+[ ctrl + del ] : deleate a word after the cursor
+
+[ ctrl + shift + back ] : deleate the whole line before the cursor
+[ ctrl + shift + del ] : deleate the whole line after the cursor
+
 In the gnome terminal emulator, 
 Ctrl+Left/right will jump over words left or right. 
 Alt+Backspace will delete the word on the left.
