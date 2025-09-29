@@ -1,0 +1,7 @@
+Debug: 
+
+- f11 : step inside 
+- f5 : next debug pointer 
+- f10 : continue flow 
+
+combo : put break pointer , f5 + f10 
